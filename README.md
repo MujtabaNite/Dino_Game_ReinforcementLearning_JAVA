@@ -98,7 +98,7 @@ Chrome_Dinosaur_Game_AI/
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/LtNITESNAKE/Dino_Game_ReinforcementLearning_JAVA.git
+   git clone https://github.com/Mujtabanite/Dino_Game_ReinforcementLearning_JAVA.git
    ```
 
 3. **Open in Processing**:
